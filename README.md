@@ -71,10 +71,12 @@ client.execute('jd.union.open.goods.bigfield.query', {
 });
 ```
 
+#### 码云地址：[https://gitee.com/weiyuh/xwapi.git](https://gitee.com/weiyuh/xwapi.git)
+#### Github地址：[https://github.com/github342466/xwapi.git](https://github.com/github342466/xwapi.git) 
+
 # 如果对您有帮助：
 
 - 请为我点个Star
 - 如需帮助请关注下面的公众号并留言
-
 
 ![小微数据weiyuh](http://www.weiyuh.cn/weiyuh/gzh.jpg)
