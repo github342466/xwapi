@@ -1,0 +1,57 @@
+{
+  "_from": "xwapi",
+  "_id": "xwapi@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-ztb37aZs4YTfCehbWxj64Wqcm1aN2UKNq1RjIjX4mbJsDyok6ZH2OM4rQPeAjudqoMIaHevCOgZzAOaUO/bHjw==",
+  "_location": "/xwapi",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "xwapi",
+    "name": "xwapi",
+    "escapedName": "xwapi",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/xwapi/-/xwapi-0.0.3.tgz",
+  "_shasum": "b279a46433b875f6f0113e9a12e0bc85ed398361",
+  "_spec": "xwapi",
+  "_where": "E:\\webTemplate",
+  "author": {
+    "name": "weiyuh"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "commitizen": "^4.0.3",
+    "crypto-js": "^4.0.0",
+    "dateformat": "^3.0.3",
+    "md5": "^2.2.1",
+    "qs": "^6.9.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "deprecated": false,
+  "description": "京东联盟&淘宝联盟&拼多多 api小工具",
+  "engines": {
+    "node": ">=12"
+  },
+  "keywords": [
+    "淘宝联盟",
+    "京东联盟",
+    "多多客"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "xwapi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
